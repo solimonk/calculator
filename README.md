@@ -1,2 +1,2 @@
 # calculator
-calculator created using python
+calculator created using python. includes a loop.
